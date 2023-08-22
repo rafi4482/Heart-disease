@@ -23,4 +23,4 @@ The dataset used for this project contains information about patients including 
 The trained classification models are evaluated using accuracy, precision, recall, and F1-score. Hyperparameter tuning is performed using GridSearchCV and RandomizedSearchCV for improved model performance.
 
 ## Results
-The best-performing model achieved an accuracy of 97%, precision of 99%, recall of 68%, and F1-score of 80%. This indicates that our model is effective at predicting diabetes based on the given features.
+The best-performing model achieved an accuracy of 84%, precision of 82%, recall of 92%, and F1-score of 87%. This indicates that our model is good at predicting heart disease based on the given features.
